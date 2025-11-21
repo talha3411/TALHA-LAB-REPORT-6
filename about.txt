@@ -1,0 +1,8 @@
+My hobbies:
+- Reading
+- Gaming
+- Coding
+
+My future goals:
+- Become a software developer
+- Learn advanced Git workflows
